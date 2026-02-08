@@ -1,1 +1,15 @@
-
+{
+  "negocio": "Biblioteca de Programación",
+  "precio": "35 Bs",
+  "fotos": {
+    "comprobantes": "https://via.placeholder.com/600x400/0000FF/FFFFFF?text=COMPROBANTES",
+    "drive": "https://via.placeholder.com/600x400/00FF00/000000?text=GOOGLE+DRIVE", 
+    "qr_pago": "https://via.placeholder.com/600x400/FF0000/FFFFFF?text=QR+PAGO",
+    "lista_libros": "https://via.placeholder.com/600x400/FFFF00/000000?text=LISTA+LIBROS",
+    "logo": "https://via.placeholder.com/600x400/800080/FFFFFF?text=BIBLIOTECA"
+  },
+  "mensajes": {
+    "bienvenida": "¡Hola! Soy *Biblioteca de Programación* 📚\\nTengo +3000 libros PDF\\n\\nElige:\\n1️⃣ Lista de libros\\n2️⃣ Comprobantes\\n3️⃣ Acceso Drive\\n4️⃣ Precio y pago\\n5️⃣ Cómo recibir\\n\\nEscribe número (ej: 1)",
+    "opcion_invalida": "❌ Escribe 1-5"
+  }
+}
